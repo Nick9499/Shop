@@ -1,3 +1,4 @@
+//mongodb way
 const path = require("path");
 
 const express = require("express");
